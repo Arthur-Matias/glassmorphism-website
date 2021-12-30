@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-A responsive glassmorphism style website. Check the [live version]()
+A responsive glassmorphism style website. Check the [live version](https://arthur-matias.github.io/glassmorphism-website/)
 
 ## :rocket: Technologies ##
 
