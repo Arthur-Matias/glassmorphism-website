@@ -69,7 +69,7 @@ $ git clone https://github.com/Arthur-Matias/glassmorphism-website
 # Access
 $ cd glassmorphism-website
 
-# The just open index.html on your favorite browser
+# Then just open index.html on your favorite browser
 ```
 
 ## :memo: License ##
